@@ -5,4 +5,4 @@ Disallow: /assets/libraries/baffle.js
 Disallow: /netlify.toml
 Disallow: /_redirects
 
-Sitemap: https://www.aniekan.ml/sitemap.xml
+Sitemap: https://aniekan.netlify.app/sitemap.xml
